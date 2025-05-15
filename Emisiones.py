@@ -101,5 +101,3 @@ def main():
     print("\n--- Medias mensuales por contaminante en estación 4 ---")
     print(medias_mensuales_por_estacion(df, estacion=4))
 
-if __name__ == '__main__':
-    main()
